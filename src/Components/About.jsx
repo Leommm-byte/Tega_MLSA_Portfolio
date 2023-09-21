@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science Student studying at Yaba College of Technology. I enjoy breaking complex problems into smaller solvable chunks and making decisions based on data.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "Data Science",
+  "Web Scraping",
+  "Scripting",
+  "Collaboration",
+  "Learning",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Enter the world of Oghenetega Biokoro, a passionate student at Yaba College of Technology, Nigeria, with a bold ambition – revolutionizing the nation's agriculture. His ten-year vision aims to reshape the field and uplift communities. Oghenetega's dreams don't stop there – he's determined to become a global force as a Machine Learning Engineer, driving transformative tech solutions worldwide. As a trailblazer in Computer Science and an executive in the Nigeria Association of Computing Students, Oghenetega is already shaping the future. Join him in his inspiring journey to bring about meaningful change and innovation.";
 
 const About = () => {
   return (
