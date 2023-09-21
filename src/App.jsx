@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "oghenetega-biokoro-48a97a238",
   medium: "",
   twitter: "_Teggyg_",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
